@@ -1,3 +1,3 @@
 #!/bin/bash
-export IDF_TOOLS_PATH=$HOME/BlueRetroRoot/
-. $HOME/BlueRetroRoot/esp-idf/export.sh
+export IDF_TOOLS_PATH=$PWD/
+. $PWD/esp-idf/export.sh
